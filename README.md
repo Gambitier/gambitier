@@ -12,8 +12,4 @@
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=7039250&theme=dark" />
   <br />
   <br />
-  <br />
-  <a href="https://github.com/gambitier/profile-activity-generator">
-    <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
-  </a>
 </div>
