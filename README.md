@@ -8,7 +8,7 @@
   <br />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=gambitier&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gambitier&show_icons=true&line_height=45&theme=highcontrast&include_all_commits=true" />
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=7039250&theme=dark" />
   <br />
   <br />
