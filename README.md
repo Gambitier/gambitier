@@ -82,7 +82,7 @@ Django is a high-level Python web framework known for encouraging rapid developm
 
 ### My Contributions (Reported Issue)
 
-1. **[Docs] - IntegrityError: NOT NULL Constraint Failed](https://github.com/django/django/pull/10188)**
+1. **[Fix docs - IntegrityError: NOT NULL Constraint Failed](https://github.com/django/django/pull/10188)**
    - Description: Reported a documentation-related issue regarding an IntegrityError related to a NOT NULL constraint failure.
 
 </details>
