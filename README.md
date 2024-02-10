@@ -4,6 +4,7 @@
  <p align="center">
    <a target="_blank" href="https://stackoverflow.com/users/7039250/gambitier">Stack Overflow</a>
    . <a target="_blank" href="https://www.linkedin.com/in/akash-l-jadhav/">LinkedIn</a>
+   . <a target="_blank" href="https://gambitier.github.io/">Blog</a>
   </p>
 </div>
 
