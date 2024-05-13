@@ -10,11 +10,26 @@
 </div>
 
 
-# Open Source Contributions
+### Open Source Contributions
+
 
 <details>
   
-<summary>Elsa Workflows </summary>
+<summary>Juliaup</summary>
+  
+### Introduction
+Juliaup is a Julia installer and version multiplexer.
+
+### My Contributions (Pull Requests)
+
+1. **[feat(juliaup): Improve error message for juliaup self channel](https://github.com/JuliaLang/juliaup/pull/882)**
+   - Description: This contribution improves the error message for `juliaup self channel` command
+
+</details>
+  
+<details>
+  
+<summary>Elsa Workflows</summary>
   
 ### Introduction
 Elsa is a robust workflow library designed for executing workflows within any .NET application. It provides flexibility in defining workflows through C# code, a visual designer, or specifying workflows in JSON format.
