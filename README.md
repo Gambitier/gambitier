@@ -24,6 +24,8 @@ Juliaup is a Julia installer and version multiplexer.
 
 1. **[feat(juliaup): Improve error message for juliaup self channel](https://github.com/JuliaLang/juliaup/pull/882)**
    - Description: This contribution improves the error message for `juliaup self channel` command
+2. **[fix(juliaup): handle timeout error to prevent crash](https://github.com/JuliaLang/juliaup/pull/951)**
+   - Description: This contribution fixes the installer crash caused by http timeout error
 
 </details>
   
