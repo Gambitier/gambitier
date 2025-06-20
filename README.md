@@ -17,6 +17,19 @@
 
 ### Open Source Contributions
 
+<details>
+  
+<summary>Go Micro Plugins</summary>
+  
+### Introduction
+Plugins for Go Micro.
+
+### My Contributions (Pull Requests)
+
+1. **[fix(brokers/redis): correct address prefix check](https://github.com/go-micro/plugins/pull/145)**
+   - Description: Fixes redis broker plugin config
+
+</details>
 
 <details>
   
